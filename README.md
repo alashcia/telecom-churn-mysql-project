@@ -1,3 +1,7 @@
+Alashcia Porthen
+MSc in Statistics Candidate 
+Building SQL and machine learning porfolio in churn analysis
+
 # Telecom Customer Churn Analysis (MySQL Project)
 
 ## Overview
